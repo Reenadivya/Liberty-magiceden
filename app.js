@@ -48,7 +48,7 @@ btn.addEventListener("click", function () {
   });
 });
 
-const apiKey = "2865692e-2c75-42e5-ba5a-4fa45f213a41";
+const apiKey = //-- ENTER YOUR API KEY HERE--//
 async function parseTxn(txnStr) {
   const { data } = await axios.post(
     `https://api.helius.xyz/v0/transactions/?api-key=${apiKey}`,
