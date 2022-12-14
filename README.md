@@ -46,9 +46,9 @@ I am a self-taught frontend developer and only started coding at the start of th
 Liberty Royalty Tracking Tool allows anyone to check if royalty payments have been made with each transaction. The goal in mind when starting this project was to create a "NFT royalty tracking explorer" if you will. Of course, there are still many more feature to be implemented but the main functionality of this project has been created and I will only progress to make it better.
 
 Use Cases: 
-* For future NFT creators or current to check which marketplace with the highest royalty fulfillment rate
+* For future NFT creators or current to check which marketplace with the highest royalty fulfillment rate so that they can choose where to launch projects
 * Check what percentage of their NFT transaction has royalties paid
-* Check individual transactions for details of seller
+* Check which NFT collection has the highest royalty rate fulfillment
 
 
 ### Built With
