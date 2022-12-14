@@ -61,14 +61,11 @@ Use Cases:
    ```sh
    git clone https://github.com/Reenadivya/Liberty-magiceden.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `app.js`
+3. Enter your API in `app.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
-
+   
+4. Open index.html file with live server and run app
 
 <!-- USAGE EXAMPLES -->
 ## Usage
