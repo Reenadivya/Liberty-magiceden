@@ -26,9 +26,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![Project Screenshot1](https://user-images.githubusercontent.com/107604182/207314612-6977b7f6-809f-45db-b6b9-83243f9c6115.png)
+![Untitled design](https://user-images.githubusercontent.com/107604182/207511422-f8c819e5-148d-42fd-aeef-19cd3b4a1c04.png)
 
-![Project Screenshot2](https://user-images.githubusercontent.com/107604182/207314563-12691742-2779-40dc-b567-a34623fa34a5.png)
+![Untitled design (1)](https://user-images.githubusercontent.com/107604182/207511431-e644db99-bfef-4f6d-8657-eec4e5e51e2d.png)
 
 
 I am a self-taught frontend developer and only started coding at the start of this year. I chanced upon the Magic Eden Creator Moetization Hackathon and thought it was a great opportunity to grow my skills and also dive deep into the web3 developer world.
