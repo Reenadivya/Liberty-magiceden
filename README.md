@@ -34,6 +34,12 @@
 
 ![step2 - Edited](https://user-images.githubusercontent.com/107604182/207511652-377d206f-0ef7-4b3a-a4a7-a561f9a0cd67.png)
 
+Updated Screen Recording ----> 
+
+
+https://user-images.githubusercontent.com/107604182/207512377-1b355584-a286-409f-b7a3-28413b6b4f36.mov
+
+
 
 I am a self-taught frontend developer and only started coding at the start of this year. I chanced upon the Magic Eden Creator Moetization Hackathon and thought it was a great opportunity to grow my skills and also dive deep into the web3 developer world.
 
